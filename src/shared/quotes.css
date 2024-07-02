@@ -1,0 +1,56 @@
+
+
+/* .swiper {
+  width: 300px;
+  height: 350px;
+} */
+
+.swiper-slide {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 18px;
+  font-size: 22px;
+  font-weight: bold;
+  color: #fff;
+}
+
+.swiper-slide:nth-child(1n) {
+  background-color: rgb(255, 207, 207);
+}
+
+.swiper-slide:nth-child(2n) {
+  background-color: rgb(195, 223, 246);
+}
+
+.swiper-slide:nth-child(3n) {
+  background-color: rgb(207, 249, 232);
+}
+
+.swiper-slide:nth-child(4n) {
+  background-color: rgb(250, 231, 207);
+}
+
+.swiper-slide:nth-child(5n) {
+  background-color: rgb(243, 253, 217);
+}
+
+.swiper-slide:nth-child(6n) {
+  background-color: rgb(254, 224, 231);
+}
+
+.swiper-slide:nth-child(7n) {
+  background-color: rgb(240, 254, 236);
+}
+
+.swiper-slide:nth-child(8n) {
+  background-color: rgb(230, 237, 255);
+}
+
+.swiper-slide:nth-child(9n) {
+  background-color: rgb(255, 231, 255);
+}
+
+.swiper-slide:nth-child(10n) {
+  background-color: rgb(228, 253, 242);
+}

@@ -1,0 +1,85 @@
+.menu-active{
+   border-bottom: 8px #19301b4a;
+   border-style: groove;
+   border-top-left-radius: 10px;
+   border-top-right-radius: 10px;
+   border-bottom-left-radius: 0px;
+   border-bottom-right-radius: 0px;
+   color: #19301b;
+   font-weight: 600;
+   
+}
+
+.menu-inactive{
+   color: #96a49b;
+   font-weight: 400;
+}
+
+.title-text{
+   color: #19301b;
+   font-size: 2rem;
+   font-weight: 700;
+   text-align: center;
+   font-family: "Kanit", sans-serif;
+   margin-top: 40px;
+}
+
+.sub-text{
+   color: #626864cc;
+   font-size: 1rem;
+   font-weight: 400;
+   text-align: center;
+   max-width: 800px;
+   margin: auto;
+   justify-content: center;
+   padding: 0 16px;
+}
+
+
+.dark-text{
+   color: #19301b;
+}
+
+.mid-text{
+   color: #626864cc;
+   font-size: 1rem;
+}
+
+.mid-bg{
+background-color: #9cf987c5;
+}
+
+.lit-bg{
+background-color: #b0fbb84d;
+}
+
+.lit-bg2{
+   background-color: #a3f6f14d;
+}
+
+
+/* Swiper Styles */
+.swiper {
+   width: 100%;
+   height: 100%;
+ }
+ 
+ .swiper-slide {
+   text-align: center;
+   font-size: 18px;
+   background: #fff;
+ 
+   /* Center slide text vertically */
+   display: flex;
+   justify-content: center;
+   align-items: center;
+ }
+ 
+ .swiper-slide img {
+   display: block;
+   width: 100%;
+   height: 100%;
+   object-fit: cover;
+ }
+ 
+
